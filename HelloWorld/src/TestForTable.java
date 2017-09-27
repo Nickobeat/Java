@@ -1,4 +1,9 @@
-// Test 9*9 Multiplication Table
+/**
+ * Test for method 
+ * ----------------
+ * Test 9*9 Multiplication Table
+ *
+ */
 
 public class TestForTable {
 

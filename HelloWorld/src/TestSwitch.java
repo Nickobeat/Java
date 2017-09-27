@@ -1,4 +1,10 @@
-import org.omg.CORBA.PUBLIC_MEMBER;
+/**
+ * 
+ * Test switch method
+ * -------------------
+ * Random a letter from a to z
+ * Display the letter and shows if it is an vowel, a semivowel or a consonant
+ */
 
 public class TestSwitch {
 	public static void main(String[] args) {

@@ -1,5 +1,9 @@
-
-// Print 1-100 Prime Numbers
+/**
+ * Test continue method
+ * ---------------------
+ * Print 1-100 Prime Numbers
+ *
+ */
 
 public class TestContinue {
 

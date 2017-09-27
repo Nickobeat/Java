@@ -1,4 +1,12 @@
-
+/**
+ * Test for method
+ * ----------------
+ * Test the sum of 1 to 100
+ * Test the sum of odd number from 1 to 100
+ * Test the sum of even number from 1 to 100
+ * List the number from 1 to 1000 which can be exact divided by 5
+ * and displayed 10 numbers in each row
+ */
 public class TestFor {
 
 	public static void main(String[] args) {
