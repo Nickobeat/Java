@@ -1,4 +1,8 @@
-"# Java"
+Welcome to my Java learning repository, I currently enhance my Java skills. There were some simple projects which I wrote during the Java classes. 
+
+"Java Developer"
+
+"Github Vision Control"
 
 git clone https://github.com/Nickobeat/Java.git   (Clone the repository to local machine)
 
